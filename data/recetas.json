@@ -1,0 +1,11 @@
+[
+  {
+    "nombre": "Ensalada Cero Residuos",
+    "tiempo": 15,
+    "nivel": "Fácil",
+    "imagen": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=500",
+    "descripcion": "Aprovecha al máximo tus vegetales frescos.",
+    "ingredientes": ["Sobres de vegetales", "Aceite de oliva", "Sal y pimienta"],
+    "instrucciones": ["Cortar vegetales", "Mezclar ingredientes", "Servir frío"]
+  }
+]
