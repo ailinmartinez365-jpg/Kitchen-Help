@@ -1,7 +1,7 @@
 'use client'
 import { useState, useEffect } from 'react'
-import { supabase } from '@/lib/supabase'
-import recetasData from '@/data/recetas.json'
+import { supabase } from '../lib/supabase'
+import recetasData from '../data/recetas.json'
 import { Heart, Clock, BarChart, BookOpen } from 'lucide-react'
 
 export default function HomeApp() {
