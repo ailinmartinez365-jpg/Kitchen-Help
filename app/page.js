@@ -2,7 +2,7 @@
 import { useState, useEffect } from 'react'
 import { supabase } from '@/lib/supabase'
 import recetasData from '@/data/recetas.json'
-import { Heart, Clock, BarChart, Search, BookOpen } from 'lucide-react'
+import { Heart, Clock, BarChart, BookOpen } from 'lucide-react'
 
 export default function HomeApp() {
   const [tabActiva, setTabActiva] = useState('menu')
